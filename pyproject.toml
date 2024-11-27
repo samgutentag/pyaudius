@@ -1,12 +1,12 @@
 [tool.poetry]
 name = "pyaudius"
-version = "1.0.0"
-description = "API"
-authors = ["OpenAPI Generator Community <team@openapitools.org>"]
+version = "0.1.0"
+description = "A Python Implmentation of the Audius API"
+authors = ["Sam Gutentag <sam@gutentag.dev>"]
 license = "NoLicense"
 readme = "README.md"
 repository = "https://github.com/samgutentag/pyaudius"
-keywords = ["OpenAPI", "OpenAPI-Generator", "API"]
+keywords = ["music", "audius", "API", "web3", "crypto"]
 include = ["pyaudius/py.typed"]
 
 [tool.poetry.dependencies]
