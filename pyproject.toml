@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "pyaudius"
 version = "0.1.0"
-description = "A Python Implmentation of the Audius API"
+description = "A Python Implentation of the Audius API"
 authors = ["Sam Gutentag <sam@gutentag.dev>"]
 license = "NoLicense"
 readme = "README.md"
